@@ -8,7 +8,7 @@ It will use implicit auth to obtain an access token and then connect to EventSub
 
 This example is also available via GitHub Pages!
 
-Give it a [whirl here](https://barrycarlyon.github.io/twitch_misc/eventsub/websockets/web/basic/)
+Give it a [whirl here](https://onlinekinggaming.github.io/twitch_misc/eventsub/websockets/web/basic/)
 
 ## Reference Documentation
 
